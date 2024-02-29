@@ -5,7 +5,7 @@
   <meta charset="utf-8" />
   <title>Ramen Rater</title>
   <link rel="stylesheet" type="text/css" href="styles.css" />
-  <script defer type="module" src="./src/index.js"></script>
+
 </head>
 
 <body>
@@ -38,18 +38,20 @@
   <form id="new-ramen">
     <h4>Add New Ramen</h4>
     <label for="new-name">Name: </label>
-    <input type="text" name="name" id="new-name" />
+    <input type="text" name="name" id="new-name" autocomplete="name"/>
     <label for="new-restaurant">Restaurant: </label>
-    <input type="text" name="restaurant" id="new-restaurant" />
+    <input type="text" name="restaurant" id="new-restaurant" autocomplete="organization"/>
     <label for="new-image">Image: </label>
-    <input type="text" name="image" id="new-image" />
+    <input type="text" name="image" id="new-image" autocomplete="image-url"/>
     <label for="new-rating">Rating: </label>
-    <input type="number" name="rating" id="new-rating" />
+    <input type="number" name="rating" id="new-rating" autocomplete="number"/>
     <label for="new-comment">Comment: </label>
-    <textarea name="new-comment" name="new-comment" id="new-comment"></textarea>
+    <textarea name="new-comment" name="new-comment" id="new-comment" autocomplete="comment"></textarea>
     <input type="submit" id='submit-button' value="Create" />
+    <h4> Tip: To delete, double click on a photo. 😊 </h4>
+  
   </form>
-
+  <script defer type="module" src="./src/index.js"></script>
 </body>
 
 </html>

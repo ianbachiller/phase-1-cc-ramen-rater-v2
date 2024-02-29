@@ -1,15 +1,15 @@
 {
   "ramens": [
     {
-        "id": 1,
-        "name": "Shoyu Ramen",
-        "restaurant": "Nonono",
-        "image": "./assets/ramen/shoyu.jpg",
-        "rating": 7,
-        "comment": "Delish. Can't go wrong with a classic!"
+      "id": "1",
+      "name": "Shoyu Ramen",
+      "restaurant": "Nonono",
+      "image": "./assets/ramen/shoyu.jpg",
+      "rating": 7,
+      "comment": "Delish. Can't go wrong with a classic!"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Naruto Ramen",
       "restaurant": "Naruto",
       "image": "./assets/ramen/naruto.jpg",
@@ -17,7 +17,7 @@
       "comment": "My absolute fave!"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Nirvana Shiromaru",
       "restaurant": "Ippudo",
       "image": "./assets/ramen/nirvana.jpg",
@@ -25,7 +25,7 @@
       "comment": "Do buy the hype."
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Gyukotsu Ramen",
       "restaurant": "Za-Ya Ramen",
       "image": "./assets/ramen/gyukotsu.jpg",
@@ -33,12 +33,308 @@
       "comment": "Good to the last drop."
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Kojiro Red Ramen",
       "restaurant": "Ramen-Ya",
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "id": "eb39",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "ae31",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "984a",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "eb56",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "15d1",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "916a",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "6923",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "d0cc",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "cec3",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "a973",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "6c43",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "1751",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "6238",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "6bea",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "d8c0",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "7fec",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "1501",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "b104",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "3a2a",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "5a87",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "95bc",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "2b3d",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "c738",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "5d2b",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "0622",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "2234",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "ddb4",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "6d37",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "57c1",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "b51f",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "f82a",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "dc58",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "f779",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "71d3",
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": ""
+    },
+    {
+      "id": "e78c",
+      "name": "Tonkotsu Ramen",
+      "restaurant": "Atl's best",
+      "image": "https://glebekitchen.com/wp-content/uploads/2017/04/tonkotsuramenfront.jpg",
+      "rating": "10",
+      "comment": "Thee best. "
+    },
+    {
+      "id": "60b5",
+      "name": "Chili Lime Shrimp Ramen",
+      "restaurant": "Atl's Best",
+      "image": "https://www.modernfarmhouseeats.com/wp-content/uploads/2021/03/chili-lime-shrimp-ramen-2-scaled.jpg",
+      "rating": "10",
+      "comment": "The best :)"
+    },
+    {
+      "id": "46b3",
+      "name": "Spicy Shoyu Ramen",
+      "restaurant": "Atl's Best",
+      "image": "https://www.justonecookbook.com/wp-content/uploads/2023/04/Spicy-Shoyu-Ramen-8025-II.jpg",
+      "rating": "10",
+      "comment": "Spicy ramen? Yaaas"
     }
   ]
 }
